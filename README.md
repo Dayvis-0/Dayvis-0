@@ -1,1 +1,1 @@
-Hola, soy Dayvis, un apasionado de la programación.
+Hola, soy Dayvis.
