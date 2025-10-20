@@ -7,7 +7,8 @@
   <br><br>
   - 🎓 Estoy estudiando en la Universidad Nacional José María Arguedas.
 </p>
-## 📬 Contacto
+
+## Contacto
 <br></br>
 
 [![Email](https://img.shields.io/badge/Email-amdayvis39@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amdayvis39@gmail.com)
@@ -15,7 +16,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-## 🧠 Lenguajes
+## Lenguajes
 <span>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -24,18 +25,18 @@
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
-## 🧠 Base de datos
+## Base de datos
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## 🧠 Framework
+## Framework
 <span>
   <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </span>
 
-## 🧠 OS & Design
+## OS & Diseño
 <p>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -43,7 +44,7 @@
 </p>
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Dayvis-0">
