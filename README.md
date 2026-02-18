@@ -1,10 +1,4 @@
 <h1>👋 Hola, soy Dayvis</h1>
-<p>
-  Soy un programador en formación con conocimientos básicos en varios lenguajes de programación.
-  También estoy mejorando poco a poco en frontend para poder crear soluciones más completas y fáciles de usar.
-  <br><br>
-  - 🎓 Estoy estudiando en la Universidad Nacional José María Arguedas.
-</p>
 
 ## Contacto
 
